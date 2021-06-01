@@ -1,0 +1,103 @@
+[
+  [
+    {
+      "taskId": "5f127f6c3a6b1000172320ad",
+      "uuid": "8f9e0df3-7534-46ab-b7b4-dbae311c88cd",
+      "label": "traffic_control_sign",
+      "height": 16,
+      "width": 13,
+      "image": "https://observesign.s3-us-west-2.amazonaws.com/traffic_sign_2.jpg",
+      "auditLink": "https://dashboard.scale.com/audit?taskId=5f127f6c3a6b1000172320ad",
+      "escalationSeverity": "error",
+      "escalationMessages": "The 'not_applicable' background color should be used for the 'non_visible_face' label. Use the 'other' background color for the other labels."
+    },
+    {
+      "taskId": "5f127f6c3a6b1000172320ad",
+      "uuid": "dda85426-ba5f-4910-b92b-e50fc0bfb793",
+      "label": "traffic_control_sign",
+      "height": 10,
+      "width": 7,
+      "image": "https://observesign.s3-us-west-2.amazonaws.com/traffic_sign_2.jpg",
+      "auditLink": "https://dashboard.scale.com/audit?taskId=5f127f6c3a6b1000172320ad",
+      "escalationSeverity": "error",
+      "escalationMessages": "The 'not_applicable' background color should be used for the 'non_visible_face' label. Use the 'other' background color for the other labels."
+    },
+    {
+      "taskId": "5f127f6c3a6b1000172320ad",
+      "uuid": "0bc2ab2c-16b0-461e-8866-08f3bdc87238",
+      "label": "traffic_control_sign",
+      "height": 39,
+      "width": 16,
+      "image": "https://observesign.s3-us-west-2.amazonaws.com/traffic_sign_2.jpg",
+      "auditLink": "https://dashboard.scale.com/audit?taskId=5f127f6c3a6b1000172320ad",
+      "escalationSeverity": "error",
+      "escalationMessages": "The 'not_applicable' background color should be used for the 'non_visible_face' label. Use the 'other' background color for the other labels."
+    },
+    {
+      "taskId": "5f127f6c3a6b1000172320ad",
+      "uuid": "fd7a83ed-cbcc-4b98-8746-98c7551cb4a2",
+      "label": "policy_sign",
+      "height": 12,
+      "width": 33,
+      "image": "https://observesign.s3-us-west-2.amazonaws.com/traffic_sign_2.jpg",
+      "auditLink": "https://dashboard.scale.com/audit?taskId=5f127f6c3a6b1000172320ad",
+      "escalationSeverity": "error",
+      "escalationMessages": "The 'not_applicable' background color should be used for the 'non_visible_face' label. Use the 'other' background color for the other labels."
+    },
+    {
+      "taskId": "5f127f5f3a6b100017232099",
+      "uuid": "9a3eac82-aeca-48df-a58f-76179d26e8ac",
+      "label": "information_sign",
+      "height": 109,
+      "width": 146,
+      "image": "https://observesign.s3-us-west-2.amazonaws.com/traffic_sign_6.png",
+      "auditLink": "https://dashboard.scale.com/audit?taskId=5f127f5f3a6b100017232099",
+      "escalationSeverity": "warning",
+      "escalationMessages": "Both the width and height of the box seem unusually larger than 95% of all the boxes in the project. It seems risky but could be OK."
+    },
+    {
+      "taskId": "5f127f5f3a6b100017232099",
+      "uuid": "25e6e90c-7acb-4786-a0fb-ca7b10fc3687",
+      "label": "non_visible_face",
+      "height": 654,
+      "width": 518,
+      "image": "https://observesign.s3-us-west-2.amazonaws.com/traffic_sign_6.png",
+      "auditLink": "https://dashboard.scale.com/audit?taskId=5f127f5f3a6b100017232099",
+      "escalationSeverity": "warning",
+      "escalationMessages": "Both the width and height of the box seem unusually larger than 95% of all the boxes in the project. It seems risky but could be OK."
+    },
+    {
+      "taskId": "5f127f5ab1cb1300109e4ffc",
+      "uuid": "80d5d8f9-82f5-4369-87cf-78f0fd846e21",
+      "label": "traffic_control_sign",
+      "height": 123,
+      "width": 137,
+      "image": "https://observesign.s3-us-west-2.amazonaws.com/traffic_sign_7.jpg",
+      "auditLink": "https://dashboard.scale.com/audit?taskId=5f127f5ab1cb1300109e4ffc",
+      "escalationSeverity": "warning",
+      "escalationMessages": "Both the width and height of the box seem unusually larger than 95% of all the boxes in the project. It seems risky but could be OK."
+    },
+    {
+      "taskId": "5f127f5ab1cb1300109e4ffc",
+      "uuid": "c4e5748f-0886-40a6-b819-ab4ce1ea81f8",
+      "label": "non_visible_face",
+      "height": 144,
+      "width": 177,
+      "image": "https://observesign.s3-us-west-2.amazonaws.com/traffic_sign_7.jpg",
+      "auditLink": "https://dashboard.scale.com/audit?taskId=5f127f5ab1cb1300109e4ffc",
+      "escalationSeverity": "warning",
+      "escalationMessages": "Both the width and height of the box seem unusually larger than 95% of all the boxes in the project. It seems risky but could be OK."
+    },
+    {
+      "taskId": "5f127f5ab1cb1300109e4ffc",
+      "uuid": "e78b5101-4ec2-420a-a727-8ecbebb26a16",
+      "label": "non_visible_face",
+      "height": 131,
+      "width": 140,
+      "image": "https://observesign.s3-us-west-2.amazonaws.com/traffic_sign_7.jpg",
+      "auditLink": "https://dashboard.scale.com/audit?taskId=5f127f5ab1cb1300109e4ffc",
+      "escalationSeverity": "warning",
+      "escalationMessages": "Both the width and height of the box seem unusually larger than 95% of all the boxes in the project. It seems risky but could be OK."
+    }
+  ]
+]
